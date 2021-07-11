@@ -1,4 +1,4 @@
-# mywebscraper
+# Web Scraper for https://www.thewhiskyexchange.com
 A webscraper script developed with python
 
 # Requirements
